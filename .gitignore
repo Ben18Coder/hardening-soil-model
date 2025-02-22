@@ -1,0 +1,13 @@
+# Entorno virtual
+venv/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# Carpeta de salida
+output/
+
+# Archivos del sistema
+.DS_Store
+.env 
