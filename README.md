@@ -87,4 +87,5 @@ SOFTWARE.
 
 ## Contacto
 
-[Tu información de contacto]
+cesar.saavedra.v@uni.pe
+
